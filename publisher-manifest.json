@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d79fc1937207d7612e7c67ab",
+  "owner": "s5fc3x",
+  "repo": "page-66b63019a4440f9d1e9809cf",
+  "title": "火箭加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "66b63019a4440f9d1e9809cf",
+      "a": "火箭加速器",
+      "b": "机场官网线路发布页",
+      "entity": "火箭加速器",
+      "brand": "火箭加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "75f3ee6cf40c2d0dca297ec9f071abf82f73fa3daf9305b4dd6e80956147f62a",
+      "content": {
+        "primary_entity": "火箭加速器",
+        "keyword1": "火箭加速器",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，火箭加速器提供基础版、旗舰版和团队版三档方案，覆盖每月 100GB 至 1000GB 流量，分别支持 3 台、5 台和 20 台设备同时在线。旗舰版搭载 IPLC 专线，适合游戏与流媒体使用；团队版提供 VIP 高带宽节点与企业定制路由。用户可以根据日常用量和设备数量快速选定套餐，再按客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "火箭加速器多设备套餐",
+          "AI_HERO_INTRO": "火箭加速器是一款面向多设备用户的网络加速服务，按流量和在线设备数划分基础版、旗舰版、团队版三档套餐。基础版适合轻度使用，旗舰版增加 IPLC 专线优化，团队版面向多人协作场景。选择时先确认常用设备数量与每月流量需求，再对比对应套餐的节点权益。",
+          "AI_VISUAL_TITLE": "火箭加速器套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版提供 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案降低月均使用成本",
+          "AI_FEATURES_TITLE": "套餐与订阅特点",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个维度对比三档套餐。",
+          "AI_FEATURE_TITLE_1": "按流量匹配套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按实际用量选择。",
+          "AI_FEATURE_TITLE_2": "按设备数选择方案",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版可满足 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "年付更省月均成本",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，订阅配置方式以客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点权益上逐级提升，可按需对比。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，按三步操作。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统、在线设备数是否匹配套餐权益，并记录订阅信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端的文档导入订阅地址，完成连接设置并测试节点可用性。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐选择、设备数量、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何判断该选哪档套餐？",
+          "AI_FAQ_ANSWER_1": "先统计常用设备数量和每月大致流量。3 台以内、100GB 左右选基础版；5 台设备、300GB 左右选旗舰版；设备多或流量需求大选团队版。",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超过对应数量时可考虑升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案一次性支付全年费用，月均成本低于月付。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "选择与设备系统对应的客户端，按照客户端文档中的订阅导入步骤操作，粘贴订阅信息后更新节点列表即可。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线面向游戏加速和流媒体播放场景，提供更稳定的线路表现。日常浏览和轻量使用选择基础版即可满足。",
+          "AI_CLOSING_TITLE": "选对套餐轻松使用",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bjszbd.cn",
+    "host": "bjszbd.cn"
+  },
+  "file_hashes": {
+    "index.html": "82963ce26b7afcbe6cd653d78b06081dcfd3933003de40b73c6841793781ecdf",
+    "sitemap.xml": "07240951c53c82f0a7d9ccad96eefac64e5832894c58a3c09f6619e689931a34",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6bfd2dd4285a5a478782d97ade557c103e69f452ff2e17e4a64d87ca1d4be122",
+    "robots.txt": "12cbac67dc7b467ab7aa592a5ee2d5838e3d5622f6eba2674c9bb19b43952dce",
+    "3534187cd1e52d6f02b5bcd157daac85.txt": "46e741c2775275dfa53413a5da5c535195b51d52354d31dfd55f0ba04aca5376"
+  },
+  "revision": "63d3b411d5f19051152154709355974f686d5bdeed5c1adb6bcc9a5c5ee513a4"
+}
